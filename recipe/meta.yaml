@@ -1,6 +1,6 @@
 {% set name = "PyUnfold" %}
-{% set version = "0.2.2" %}
-{% set sha256 = "086b735ea9593ec2384552b90a2b1171e077659c1bdc94358d4837aca3a1ad37" %}
+{% set version = "0.3" %}
+{% set sha256 = "57c5624dfff4ad978dfdc483f9260cbeabb25c6dbfcbd94906190849c4678992" %}
 
 package:
   name: {{ name|lower }}
@@ -49,8 +49,7 @@ about:
   summary: 'PyUnfold: A Python package for iterative unfolding'
 
   description: |
-    PyUnfold is a Python package for implementing the D'Agostini
-    iterative unfolding algorithm.
+    PyUnfold is a Python package for implementing iterative unfolding.
   doc_url: https://jrbourbeau.github.io/pyunfold/
   dev_url: https://github.com/jrbourbeau/pyunfold
 
