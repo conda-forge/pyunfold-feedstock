@@ -9,8 +9,7 @@ Feedstock license: BSD 3-Clause
 
 Summary: PyUnfold: A Python package for iterative unfolding
 
-PyUnfold is a Python package for implementing the D'Agostini
-iterative unfolding algorithm.
+PyUnfold is a Python package for implementing iterative unfolding.
 
 
 Current build status
