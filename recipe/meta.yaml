@@ -1,6 +1,6 @@
 {% set name = "PyUnfold" %}
-{% set version = "0.3" %}
-{% set sha256 = "57c5624dfff4ad978dfdc483f9260cbeabb25c6dbfcbd94906190849c4678992" %}
+{% set version = "0.4" %}
+{% set sha256 = "010bb25d6b73fe773e49bca98ca12b4304ee72e124f8c98eac3690ddbba2cbcd" %}
 
 package:
   name: {{ name|lower }}
